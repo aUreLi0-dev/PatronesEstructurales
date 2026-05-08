@@ -8,6 +8,5 @@ public class Main {
 
         database.conectar();
         database.insertar("hola");
-
     }
 }
